@@ -9,7 +9,7 @@ const doc = {
   },
   servers: [
     {
-      url: "https://infobaseapi.herokuapp.com/api"
+      url: "https://storebaseapp.azurewebsites.net/api"
     }
   ],
   components: {
