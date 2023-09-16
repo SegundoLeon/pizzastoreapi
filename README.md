@@ -78,4 +78,3 @@ Pasos para utilizar la extensión dentro de una accion:
 - [Deploy Proyecto web con Heroku CLI](https://www.youtube.com/watch?v=6WcBSNxEow8)
 - [Como crear y probar tu API de manera sencilla](https://www.youtube.com/watch?v=AWcm56_eNZg)
 - [Online Markdown Editor](https://dillinger.io/)
-
